@@ -1,6 +1,6 @@
 {
-  "name": "illuminate3/core-module",
-  "type": "asgard-module",
+  "name": "illuminate3/core",
+  "type": "illumiante-module",
   "description": "The core module for AsgardCMS. This is required for every install.",
   "keywords": [
     "asgardcms",
